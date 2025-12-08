@@ -1,0 +1,27 @@
+AI, generate a comprehensive, strictly objective analytical profile and a detailed skills mapping based EXCLUSIVELY on the last 30 verifiable, structured, substantive technical exchanges with this specific user across all accessible conversation history.
+If fewer than 30 such exchanges exist, generate an experimental profile using all available qualifying technical exchanges and explicitly note the limitations and uncertainty due to insufficient data. Include all numeric estimates required to populate metrics, tables, and Competency Radar axes.
+The analysis must rigorously document the user’s technical work style, problem-solving methodology, logic patterns, and performance metrics, using only interactions that meet the filtering rules below.
+NON-NEGOTIABLE DATA FILTERING RULES:
+    1. Expanded Verifiable Source Rule: Only include messages that qualify unambiguously as substantive technical exchanges: architectural reasoning, system decomposition, debugging logic, constraints engineering, scoring frameworks, structured prompt engineering, analytical data interpretation, technical iteration workflows. Ignore entirely: casual, emotional, social, narrative, humorous, or otherwise non-technical content.
+    2. Multi-Message Recurrence Rule: You may only infer traits or patterns that appear at least three times in the filtered dataset. Single instances may be referenced provisionally only in experimental profiles.
+    3. Objectivity Constraint: All conclusions must be grounded in measurable or quasi-measurable indicators: Token Efficiency Index (TEI), Perplexity Load (PPL), Cyclomatic Complexity Expansion (CCX), Message Consistency Coefficient (MCC), Constraint Saturation Index (CSI), Decomposition Depth Index. No subjective phrasing.
+TECHNICAL EVALUATION DIMENSIONS + SCORING: Evaluate each dimension on a 0–10 scale (precision 0.1) and apply the coefficients:
+Logical Architecture & Decomposition: Structural clarity, task-splitting, logic flows, weight 0.35;
+Data Utilization & Analytical Depth: Ability to extract patterns and infer constraints, weight 0.25;
+Technical Communication (Fluency): Precision, token efficiency, coherence, weight 0.20;
+Solution Creativity (Concept Flexibility): Ability to shift frameworks and generate alternatives, weight 0.20.
+MANDATORY OUTPUT STRUCTURE (IN THIS EXACT ORDER):
+    1. Weighted V-SEB Score Table (v2.0) — Show raw scores, applied weights, and weighted contributions.
+    2. Formula + Final Weighted Score — Explicit calculation + final score (precision 0.01).
+    3. Global Percentile Positioning (GPP Module) — For each dimension and for the final score, output: Global percentile ranking (precision 0.1%), percentile position relative to global mid-level engineers, senior architects, top-tier (1%) system designers. Use 2025 global engineering distribution models. Include notes if data <30 exchanges.
+    4. Competency Radar (text-only, 5 axes) — Axes: Architecture, Analysis, Communication, Creativity, Stability/Consistency. Automatically generate filled-in radar using text bars (e.g., █) and percentages for each axis, even in experimental mode.
+    5. Granular Metrics Analysis — Include and interpret: Token Efficiency Index (TEI), Perplexity Load (PPL), Decomposition Hierarchy Depth, Signal-to-Noise Ratio, Constraint Density, Structural Entropy Profile.
+    6. Market Benchmark Table (2025) — Compare all scores against Top 1% Senior AI Architects, Top 5% System Designers, Global Mid-Level Engineers, Industry median 2025.
+    7. Technical Signature — A compressed, high-precision fingerprint describing the user’s engineering style.
+    8. Single-Sentence Score Justification — One sentence explaining why the final score is what it is.
+    9. Score Interpretation — Map the score to 2025 technical archetypes and capability tiers.
+    10. SNAKE-EYE Development Plan (max 5 items) — Short, sharp, tactical improvements with measurable effects.
+    11. High-Match Role Mapping (2025 Hiring Trends) — Output the best-fitting real-world technical roles aligned with the signature.
+    12. Advanced Logic Metrics — Include MCC, CSI, CCX, Logical Volatility Index, Framework Switching Latency (FSL).
+ADDITIONAL INSTRUCTIONS: Explicitly label experimental scores when data <30 exchanges. Maintain formal, professional, precise tone, with optional subtle humor where contextually appropriate. Ensure all tables, Competency Radar axes, and numeric outputs use consistent decimal precision and clearly defined formatting. Provide notes on limitations and uncertainty if the dataset is insufficient
+Published by u/Matt Tocaa · 2025 · CC-BY-SA-4.0
