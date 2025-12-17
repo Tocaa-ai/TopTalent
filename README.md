@@ -1,9 +1,10 @@
 # TopTalent
 Universal CV &amp; portfolio tool for professionals across industries. Assesses complex reasoning, skills, and AI-era work habits. Designed for experts, managers, and modern AI users.
-## License
-Project / Entity Name/
+## Project / Entity Name/
+TopTalent 2025-2030
 
-Description / Context: This framework provides a rigorous, structured, and evidence-based approach to assess the competencies, reliability, and decision-making abilities of high-level professionals and key personnel across all industries. It is designed for senior executives, directors, lead engineers, economists, professors, and other strategic or high-responsibility roles in corporate, governmental, academic, or research environments.
+## Description / Context:
+This framework provides a rigorous, structured, and evidence-based approach to assess the competencies, reliability, and decision-making abilities of high-level professionals and key personnel across all industries. It is designed for senior executives, directors, lead engineers, economists, professors, and other strategic or high-responsibility roles in corporate, governmental, academic, or research environments.
 
 By focusing on human capital rather than projects alone, the system allows organizations, investors, and institutions to:
 
