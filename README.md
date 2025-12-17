@@ -60,4 +60,4 @@ Attribution — give appropriate credit, provide a link to the license, and indi
 ShareAlike — distribute contributions under the same license as the original
 
 No additional restrictions: you may not apply legal or technological measures that restrict others from doing anything the license permits.
-Full license text: CC BY-SA 4.0 Legal Code
+Full license text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
