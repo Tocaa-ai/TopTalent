@@ -24,4 +24,8 @@ MANDATORY OUTPUT STRUCTURE (IN THIS EXACT ORDER):
     11. High-Match Role Mapping (2025 Hiring Trends) — Output the best-fitting real-world technical roles aligned with the signature.
     12. Advanced Logic Metrics — Include MCC, CSI, CCX, Logical Volatility Index, Framework Switching Latency (FSL).
 ADDITIONAL INSTRUCTIONS: Explicitly label experimental scores when data <30 exchanges. Maintain formal, professional, precise tone, with optional subtle humor where contextually appropriate. Ensure all tables, Competency Radar axes, and numeric outputs use consistent decimal precision and clearly defined formatting. Provide notes on limitations and uncertainty if the dataset is insufficient
-Published by u/Matt Tocaa · 2025 · CC-BY-SA-4.0
+
+### Author & License
+Created by Matt Tocaa (Tocaa-ai) · 2025
+Published under CC-BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original repository: https://github.com/Tocaa-ai/TopTalent
